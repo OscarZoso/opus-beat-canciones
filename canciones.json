@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "songs": [
   {
    "id": "sagrado_guerrero",
@@ -2989,6 +2989,376 @@
      "timeMs": 260847.885,
      "bpm": 148.219,
      "beat": 644
+    }
+   ],
+   "minApp": 1
+  },
+  {
+   "id": "sente_a_pressao",
+   "title": "Sente a Pressão",
+   "artist": "",
+   "genre": "Phonk",
+   "audio": "audio.mp3",
+   "preview": "preview.mp3",
+   "charts": {
+    "EASY": "easy.json",
+    "NORMAL": "normal.json",
+    "EXPERT": "expert.json",
+    "IMPOSSIBLE": "impossible.json"
+   },
+   "cover": "cover.jpg",
+   "stage": "stage.jpg",
+   "level": "intermedia",
+   "scenes": {
+    "fx": {
+     "particles": "embers",
+     "flash": "lightning",
+     "brillo": 0.36,
+     "pulso": 0.55
+    },
+    "color": {
+     "sat": 1
+    },
+    "items": [
+     {
+      "poster": "scenes/k1_despertar.webp",
+      "at": 0,
+      "brillo": 0.42
+     },
+     {
+      "poster": "scenes/k2_discobolo.webp",
+      "at": 16000,
+      "brillo": 0.36
+     },
+     {
+      "poster": "scenes/k3_atlas.webp",
+      "at": 32000,
+      "brillo": 0.34
+     },
+     {
+      "poster": "scenes/k4_espartano.webp",
+      "at": 52000,
+      "brillo": 0.36
+     },
+     {
+      "poster": "scenes/k5_grito.webp",
+      "at": 72000,
+      "brillo": 0.34
+     },
+     {
+      "poster": "scenes/k6_explosion.webp",
+      "at": 88000,
+      "brillo": 0.3
+     },
+     {
+      "poster": "scenes/k7_de_pie.webp",
+      "at": 96500,
+      "brillo": 0.38
+     }
+    ]
+   },
+   "folder": "songs/sente_a_pressao/",
+   "files": [
+    "audio.mp3",
+    "preview.mp3",
+    "cover.jpg",
+    "stage.jpg",
+    "easy.json",
+    "normal.json",
+    "expert.json",
+    "impossible.json",
+    "scenes/k1_despertar.webp",
+    "scenes/k2_discobolo.webp",
+    "scenes/k3_atlas.webp",
+    "scenes/k4_espartano.webp",
+    "scenes/k5_grito.webp",
+    "scenes/k6_explosion.webp",
+    "scenes/k7_de_pie.webp"
+   ],
+   "sizeMB": 3.1,
+   "rev": "9e312ffecf6c",
+   "notes": {
+    "EASY": 154,
+    "NORMAL": 219,
+    "EXPERT": 257,
+    "IMPOSSIBLE": 406
+   },
+   "durationMs": 104360,
+   "tempoMap": [
+    {
+     "timeMs": 1790.3,
+     "bpm": 134.842,
+     "beat": 0
+    },
+    {
+     "timeMs": 3570.161,
+     "bpm": 134.963,
+     "beat": 4
+    },
+    {
+     "timeMs": 5348.426,
+     "bpm": 134.904,
+     "beat": 8
+    },
+    {
+     "timeMs": 7127.469,
+     "bpm": 134.992,
+     "beat": 12
+    },
+    {
+     "timeMs": 8905.352,
+     "bpm": 134.963,
+     "beat": 16
+    },
+    {
+     "timeMs": 10683.617,
+     "bpm": 134.934,
+     "beat": 20
+    },
+    {
+     "timeMs": 12462.265,
+     "bpm": 135.109,
+     "beat": 24
+    },
+    {
+     "timeMs": 14238.608,
+     "bpm": 135.225,
+     "beat": 28
+    },
+    {
+     "timeMs": 16013.428,
+     "bpm": 135.402,
+     "beat": 32
+    },
+    {
+     "timeMs": 17785.927,
+     "bpm": 135.284,
+     "beat": 36
+    },
+    {
+     "timeMs": 19559.973,
+     "bpm": 135.254,
+     "beat": 40
+    },
+    {
+     "timeMs": 21334.412,
+     "bpm": 135.051,
+     "beat": 44
+    },
+    {
+     "timeMs": 23111.519,
+     "bpm": 135.138,
+     "beat": 48
+    },
+    {
+     "timeMs": 24887.481,
+     "bpm": 134.992,
+     "beat": 52
+    },
+    {
+     "timeMs": 26665.364,
+     "bpm": 135.167,
+     "beat": 56
+    },
+    {
+     "timeMs": 28440.946,
+     "bpm": 134.963,
+     "beat": 60
+    },
+    {
+     "timeMs": 30219.211,
+     "bpm": 135.196,
+     "beat": 64
+    },
+    {
+     "timeMs": 31994.411,
+     "bpm": 135.08,
+     "beat": 68
+    },
+    {
+     "timeMs": 33771.136,
+     "bpm": 135.138,
+     "beat": 72
+    },
+    {
+     "timeMs": 35547.098,
+     "bpm": 135.137,
+     "beat": 76
+    },
+    {
+     "timeMs": 37323.074,
+     "bpm": 135.226,
+     "beat": 80
+    },
+    {
+     "timeMs": 39097.881,
+     "bpm": 135.255,
+     "beat": 84
+    },
+    {
+     "timeMs": 40872.307,
+     "bpm": 135.313,
+     "beat": 88
+    },
+    {
+     "timeMs": 42645.972,
+     "bpm": 135.196,
+     "beat": 92
+    },
+    {
+     "timeMs": 44421.173,
+     "bpm": 135.284,
+     "beat": 96
+    },
+    {
+     "timeMs": 46195.218,
+     "bpm": 135.197,
+     "beat": 100
+    },
+    {
+     "timeMs": 47970.406,
+     "bpm": 135.079,
+     "beat": 104
+    },
+    {
+     "timeMs": 49747.144,
+     "bpm": 135.022,
+     "beat": 108
+    },
+    {
+     "timeMs": 51524.632,
+     "bpm": 135.021,
+     "beat": 112
+    },
+    {
+     "timeMs": 53302.133,
+     "bpm": 135.079,
+     "beat": 116
+    },
+    {
+     "timeMs": 55078.871,
+     "bpm": 135.226,
+     "beat": 120
+    },
+    {
+     "timeMs": 56853.678,
+     "bpm": 135.167,
+     "beat": 124
+    },
+    {
+     "timeMs": 58629.259,
+     "bpm": 135.284,
+     "beat": 128
+    },
+    {
+     "timeMs": 62177.351,
+     "bpm": 135.313,
+     "beat": 136
+    },
+    {
+     "timeMs": 63951.016,
+     "bpm": 135.197,
+     "beat": 140
+    },
+    {
+     "timeMs": 65726.203,
+     "bpm": 135.284,
+     "beat": 144
+    },
+    {
+     "timeMs": 67500.249,
+     "bpm": 135.255,
+     "beat": 148
+    },
+    {
+     "timeMs": 69274.675,
+     "bpm": 135.137,
+     "beat": 152
+    },
+    {
+     "timeMs": 71050.651,
+     "bpm": 135.226,
+     "beat": 156
+    },
+    {
+     "timeMs": 72825.457,
+     "bpm": 135.401,
+     "beat": 160
+    },
+    {
+     "timeMs": 74597.97,
+     "bpm": 135.519,
+     "beat": 164
+    },
+    {
+     "timeMs": 76368.939,
+     "bpm": 135.548,
+     "beat": 168
+    },
+    {
+     "timeMs": 78139.53,
+     "bpm": 135.401,
+     "beat": 172
+    },
+    {
+     "timeMs": 79912.043,
+     "bpm": 135.46,
+     "beat": 176
+    },
+    {
+     "timeMs": 81683.783,
+     "bpm": 135.401,
+     "beat": 180
+    },
+    {
+     "timeMs": 83456.296,
+     "bpm": 135.636,
+     "beat": 184
+    },
+    {
+     "timeMs": 85225.738,
+     "bpm": 135.431,
+     "beat": 188
+    },
+    {
+     "timeMs": 86997.858,
+     "bpm": 135.724,
+     "beat": 192
+    },
+    {
+     "timeMs": 88766.152,
+     "bpm": 135.666,
+     "beat": 196
+    },
+    {
+     "timeMs": 90535.203,
+     "bpm": 135.901,
+     "beat": 200
+    },
+    {
+     "timeMs": 92301.194,
+     "bpm": 135.783,
+     "beat": 204
+    },
+    {
+     "timeMs": 94068.72,
+     "bpm": 135.931,
+     "beat": 208
+    },
+    {
+     "timeMs": 97599.924,
+     "bpm": 135.872,
+     "beat": 216
+    },
+    {
+     "timeMs": 99366.292,
+     "bpm": 135.548,
+     "beat": 220
+    },
+    {
+     "timeMs": 101136.883,
+     "bpm": 135.297,
+     "beat": 224
     }
    ],
    "minApp": 1
