@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "songs": [
   {
    "id": "sagrado_guerrero",
@@ -956,7 +956,7 @@
   {
    "id": "ya_no_me_queda_mal",
    "title": "Ya No Me Queda Mal",
-   "artist": "",
+   "artist": "YOHUAL",
    "genre": "Corrido tumbado",
    "audio": "audio.mp3",
    "preview": "preview.mp3",
@@ -972,9 +972,9 @@
    "scenes": {
     "style": "real",
     "fx": {
-     "particles": "embers",
+     "particles": "none",
      "flash": "none",
-     "brillo": 0.36,
+     "brillo": 0.3,
      "pulso": 0.35
     },
     "color": {
@@ -982,39 +982,39 @@
     },
     "items": [
      {
-      "poster": "scenes/k1_mirador.webp",
+      "poster": "scenes/k1_azotea.webp",
       "at": 0,
-      "brillo": 0.36
+      "brillo": 0.3
      },
      {
-      "poster": "scenes/k2_llaves.webp",
+      "poster": "scenes/k2_tiendita.webp",
       "at": 30000,
-      "brillo": 0.38
+      "brillo": 0.3
      },
      {
-      "poster": "scenes/k3_razers.webp",
+      "poster": "scenes/k3_escalera.webp",
       "at": 60000,
-      "brillo": 0.33
+      "brillo": 0.3
      },
      {
-      "poster": "scenes/k4_brindis.webp",
+      "poster": "scenes/k4_perrito.webp",
       "at": 72000,
-      "brillo": 0.33
+      "brillo": 0.3
      },
      {
-      "poster": "scenes/k5_banda.webp",
+      "poster": "scenes/k5_requinto.webp",
       "at": 124000,
-      "brillo": 0.34
+      "brillo": 0.3
      },
      {
       "poster": "scenes/k6_lluvia.webp",
       "at": 200600,
-      "brillo": 0.42
+      "brillo": 0.32
      },
      {
-      "poster": "scenes/k7_dunas.webp",
+      "poster": "scenes/k7_mirador.webp",
       "at": 232000,
-      "brillo": 0.3
+      "brillo": 0.28
      }
     ]
    },
@@ -1028,16 +1028,16 @@
     "normal.json",
     "expert.json",
     "impossible.json",
-    "scenes/k1_mirador.webp",
-    "scenes/k2_llaves.webp",
-    "scenes/k3_razers.webp",
-    "scenes/k4_brindis.webp",
-    "scenes/k5_banda.webp",
+    "scenes/k1_azotea.webp",
+    "scenes/k2_tiendita.webp",
+    "scenes/k3_escalera.webp",
+    "scenes/k4_perrito.webp",
+    "scenes/k5_requinto.webp",
     "scenes/k6_lluvia.webp",
-    "scenes/k7_dunas.webp"
+    "scenes/k7_mirador.webp"
    ],
-   "sizeMB": 5.6,
-   "rev": "9ca6eba70f72",
+   "sizeMB": 5.9,
+   "rev": "dd509fb58241",
    "notes": {
     "EASY": 430,
     "NORMAL": 484,
