@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "songs": [
   {
    "id": "sagrado_guerrero",
@@ -3366,7 +3366,7 @@
   {
    "id": "mi_pecado_favorito",
    "title": "Mi Pecado Favorito",
-   "artist": "",
+   "artist": "MEXTLI",
    "genre": "Reggaetón",
    "audio": "audio.mp3",
    "preview": "preview.mp3",
@@ -3393,12 +3393,12 @@
      {
       "poster": "scenes/k1_entrada.webp",
       "at": 0,
-      "brillo": 0.4
+      "brillo": 0.36
      },
      {
-      "poster": "scenes/k2_vip.webp",
+      "poster": "scenes/k2_vestido.webp",
       "at": 32000,
-      "brillo": 0.38
+      "brillo": 0.36
      },
      {
       "poster": "scenes/k3_pista.webp",
@@ -3406,19 +3406,19 @@
       "brillo": 0.32
      },
      {
-      "poster": "scenes/k4_foto_vip.webp",
+      "poster": "scenes/k4_vip.webp",
       "at": 116000,
-      "brillo": 0.36
+      "brillo": 0.34
      },
      {
-      "poster": "scenes/k5_lentes.webp",
+      "poster": "scenes/k5_luna.webp",
       "at": 148000,
-      "brillo": 0.36
+      "brillo": 0.38
      },
      {
       "poster": "scenes/k6_pasillo.webp",
       "at": 200000,
-      "brillo": 0.4
+      "brillo": 0.36
      },
      {
       "poster": "scenes/k7_chispas.webp",
@@ -3428,7 +3428,7 @@
      {
       "poster": "scenes/k8_amanecer.webp",
       "at": 272000,
-      "brillo": 0.4
+      "brillo": 0.38
      }
     ]
    },
@@ -3443,16 +3443,16 @@
     "expert.json",
     "impossible.json",
     "scenes/k1_entrada.webp",
-    "scenes/k2_vip.webp",
+    "scenes/k2_vestido.webp",
     "scenes/k3_pista.webp",
-    "scenes/k4_foto_vip.webp",
-    "scenes/k5_lentes.webp",
+    "scenes/k4_vip.webp",
+    "scenes/k5_luna.webp",
     "scenes/k6_pasillo.webp",
     "scenes/k7_chispas.webp",
     "scenes/k8_amanecer.webp"
    ],
-   "sizeMB": 5.6,
-   "rev": "ab17e555b9f9",
+   "sizeMB": 5.8,
+   "rev": "4362e90b232c",
    "notes": {
     "EASY": 465,
     "NORMAL": 533,
